@@ -60,7 +60,7 @@ const quickLinks = [
 
 export default function OverviewPage() {
   return (
-    <div className="flex max-w-6xl mx-auto px-0 relative">
+    <div className="flex max-w-6xl mr-auto px-0 relative">
       {/* Main content */}
       <main className="flex-1 min-w-0 px-8 lg:px-10 py-10">
         {/* Hero */}
