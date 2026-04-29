@@ -1,4 +1,4 @@
-import { Search, GitBranch } from "lucide-react";
+import { GitBranch } from "lucide-react";
 import { Link } from "react-router-dom";
 
 export default function TopBar({ onMenuToggle }: { onMenuToggle: () => void }) {
